@@ -1,7 +1,7 @@
 # EnglishDictionary-Django
  English Dictionary built in Django
 
-Try it Here:  <a href = "http://junaidsaleem.pythonanywhere.com/">link</a>
+Try it Here:  <a href = "http://junaidsaleem.pythonanywhere.com/">Preview</a>
 
 For running in your local machine:<br>
 Clone the repository:
