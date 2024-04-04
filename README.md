@@ -13,7 +13,7 @@ Clone the repository:
    pip install -r requirements.txt
 
    python3 manage.py runserver
+```
 
-<a>http://localhost:8000/</a>
 
-![Screenshot from 2024-04-04 21-43-06](https://github.com/JunaidSalim/EnglishDictionary-Django/assets/115392538/e6611dd0-a98f-414a-ba02-ae0e89e82767)
+![Screenshot from 2024-04-04 21-43-06](https://github.com/JunaidSalim/EnglishDictionary-Django/assets/115392538/97acdfb6-5269-4802-8e4a-fface685a1da)
